@@ -1,0 +1,19 @@
+.footer-left .logo img {
+    width: 18px;
+    height: 18px;
+  }
+
+  .logo-text {
+    font-size: 13px;
+  }
+
+  .about-link {
+    font-size: 11px;
+    padding: 6px 10px;
+  }
+
+  .footer-right {
+    gap: 8px;
+    margin-left:20px;
+  }
+  /* youtubeadd */
